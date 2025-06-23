@@ -20,7 +20,7 @@ def main():
             next_letter = next_word[-1]
             letter = next_letter
             print(f"right! next letter {letter}")
-            #bypassing game highly prohibitted ;) -a programmer
+            #bypassing game highly prohibited :) -a programmer
         else:
             print(f"{user_words} not start with letter {letter}")
             exit(0)
