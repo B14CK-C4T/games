@@ -1,4 +1,4 @@
-from random import choice,random
+import random
 
 def random_word():
     words = ["apple","banana","mango"]
